@@ -1,0 +1,58 @@
+idEmisora,Nombre,IdBanco,Emisora,TipoEnvio
+1,BANAMEX CLABE TRADICIONAL,2,NoAplica,TRADICIONAL
+2,BANAMEX CUENTA,2,NoAplica,CUENTA
+3,BANAMEX TARJETA,2,NoAplica,TARJETA
+4,BANAMEX INTERBANCARIO,2,NoAplica,INTERBANCARIO
+5,BANAMEX TRADICIONAL REINTENTO,2,NoAplica,TRADICIONAL
+6,BBVA TRADICIONAL REINTENTO,12,REINTENTO,TRADICIONAL
+7,BANORTE TRADICIONAL REINTENTO ,72,REINTENTO,TRADICIONAL
+8,SANTANDER TRADICIONAL REINTENTO ,14,REINTENTO,TRADICIONAL
+9,SANTANDER CLABE TRADICIONAL,14,623,TRADICIONAL
+10,SANTANDER CUENTA ,14,623,TRADICIONAL
+11,SANTANDER CLABE INTERBANCARIO,14,623,INTERBANCARIO
+12,BANORTE CLABE TRADICIONAL,72,496,TRADICIONAL
+13,BANORTE CUENTA TRADICIONAL,72,496,TRADICIONAL
+14,BANORTE CLABE INTERBANCARIO,72,496,INTERBANCARIO
+15,BANORTE CLABE EN LINEA,72,639,EN LINEA
+16,BANORTE CUENTA EN LINEA,72,639,EN LINEA
+17,BBVA CLABE TRADICIONAL,12,7167,TRADICIONAL
+18,BBVA CUENTA TRADICIONAL,12,7167,TRADICIONAL
+19,BBVA CLABE MATUTINO,12,6114,MATUTINO
+20,BBVA CUENTA MATUTINO,12,6114,MATUTINO
+21,BBVA CLABE EN LINEA,12,7455,EN LINEA
+22,BBVA CUENTA EN LINEA,12,7455,EN LINEA
+23,BBVA CLABE PARCIAL,12,6111,PARCIAL
+24,BBVA CUENTA PARCIAL,12,6111,PARCIAL
+25,BBVA CLABE INTERBANCARIA,12,7167,INTERBANCARIO
+56,Bancomer Interbancario Cuenta Periodo Actual      ,12,7167,INTERBANCARIO
+59,Bancomer Matutino Cuenta                          ,12,7167,TRADICIONAL
+60,Bancomer Parcial Cuenta (Saldo < Pago Periodo)    ,12,6111,PARCIAL
+62,Bancomer Parcial Cuenta Excepciones               ,12,6111,PARCIAL
+34,Bancomer Reintentos                               ,12,7167,REINTENTO
+63,Bancomer Reintentos Cuenta                        ,12,7167,REINTENTO
+44,Bancomer Parcial (DUE 3)                          ,12,6111,PARCIAL
+64,Bancomer Parcial Cuenta (DUE 3)                   ,12,6111,PARCIAL
+49,Bancomer Tradicional Cuenta                       ,12,7167,TRADICIONAL
+79,Bancomer Tradicional                              ,12,7167,TRADICIONAL
+58,Bancomer Interbancario Cuenta Excepciones         ,12,7167,INTERBANCARIO
+66,Santander Interbancario Cuenta Periodo Actual     ,14,623,INTERBANCARIO
+47,Santander Tradicional Cuenta Periodo Actual       ,14,623,TRADICIONAL
+68,Santander Excepciones Cuenta                      ,14,623,TRADICIONAL
+35,Santander Reintentos                              ,14,623,REINTENTO
+69,Santander Reintentos Cuenta                       ,14,623,REINTENTO
+70,Santander Interbancario Cuenta Excepciones        ,14,623,INTERBANCARIO
+45,Banamex Tradicional Tarjeta Periodo Actual        ,2,noAplica,TARJETA
+46,Banamex Tradicional Cuenta Periodo Actual         ,2,noAplica,CUENTA
+78,Banamex Excepciones Tarjeta                       ,2,noAplica,TARJETA
+51,Banamex Excepciones Cuenta                        ,2,noAplica,CUENTA
+36,Banamex Reintentos                                ,2,noAplica,REINTENTO
+52,Banamex Reintentos Cuenta                         ,2,noAplica,REINTENTO CUENTA
+53,Banamex Interbancario Cuenta Periodo Actual       ,2,noAplica,TRADICIONAL
+55,Banamex Interbancario Cuenta Excepciones          ,2,noAplica,TRADICIONAL
+72,Banorte Interbancario Cuenta Periodo Actual       ,72,496,TRADICIONAL
+48,Banorte Tradicional Cuenta Periodo Actual         ,72,496,TRADICIONAL
+75,Banorte Excepciones Cuenta                        ,72,496,TRADICIONAL
+37,Banorte Reintentos                                ,72,496,TRADICIONAL
+76,Banorte Reintentos Cuenta                         ,72,496,TRADICIONAL
+26,Banorte Interbancario Excepciones                 ,72,496,INTERBANCARIO
+77,Banorte Interbancario Cuenta Excepciones          ,72,496,INTERBANCARIO
