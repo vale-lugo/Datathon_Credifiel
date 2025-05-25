@@ -1,0 +1,58 @@
+idEmisora,Nombre,IdBanco,Emisora,TipoEnvio,EmisoraCostoAceptado,Riesgo
+1,BANAMEX CLABE TRADICIONAL,2,NoAplica,TRADICIONAL,1.75,0
+2,BANAMEX CUENTA,2,NoAplica,CUENTA,1.75,0
+3,BANAMEX TARJETA,2,NoAplica,TARJETA,1.75,0
+4,BANAMEX INTERBANCARIO,2,NoAplica,INTERBANCARIO,1.75,1
+5,BANAMEX TRADICIONAL REINTENTO,2,NoAplica,TRADICIONAL,1.75,0
+6,BBVA TRADICIONAL REINTENTO,12,REINTENTO,TRADICIONAL,8.0,2
+7,BANORTE TRADICIONAL REINTENTO ,72,REINTENTO,TRADICIONAL,2.5,2
+8,SANTANDER TRADICIONAL REINTENTO ,14,REINTENTO,TRADICIONAL,1.97,2
+9,SANTANDER CLABE TRADICIONAL,14,00623,TRADICIONAL,2.82,2
+10,SANTANDER CUENTA ,14,00623,TRADICIONAL,2.82,2
+11,SANTANDER CLABE INTERBANCARIO,14,00623,INTERBANCARIO,3.18,1
+12,BANORTE CLABE TRADICIONAL,72,00496,TRADICIONAL,2.5,2
+13,BANORTE CUENTA TRADICIONAL,72,00496,TRADICIONAL,2.5,2
+14,BANORTE CLABE INTERBANCARIO,72,00496,INTERBANCARIO,4.5,1
+15,BANORTE CLABE EN LINEA,72,00639,EN LINEA,2.5,0
+16,BANORTE CUENTA EN LINEA,72,00639,EN LINEA,2.5,0
+17,BBVA CLABE TRADICIONAL,12,07167,TRADICIONAL,8.0,2
+18,BBVA CUENTA TRADICIONAL,12,07167,TRADICIONAL,8.0,2
+19,BBVA CLABE MATUTINO,12,06114,MATUTINO,8.0,2
+20,BBVA CUENTA MATUTINO,12,06114,MATUTINO,8.0,2
+21,BBVA CLABE EN LINEA,12,07455,EN LINEA,4.0,0
+22,BBVA CUENTA EN LINEA,12,07455,EN LINEA,4.0,0
+23,BBVA CLABE PARCIAL,12,06111,PARCIAL,1.91,2
+24,BBVA CUENTA PARCIAL,12,06111,PARCIAL,1.91,2
+25,BBVA CLABE INTERBANCARIA,12,07167,INTERBANCARIO,6.0,1
+56,Bancomer Interbancario Cuenta Periodo Actual      ,12,07167,INTERBANCARIO,6.0,1
+59,Bancomer Matutino Cuenta                          ,12,07167,TRADICIONAL,8.0,2
+60,Bancomer Parcial Cuenta (Saldo < Pago Periodo)    ,12,06111,PARCIAL,1.91,2
+62,Bancomer Parcial Cuenta Excepciones               ,12,06111,PARCIAL,1.91,2
+34,Bancomer Reintentos                               ,12,07167,REINTENTO,8.0,0
+63,Bancomer Reintentos Cuenta                        ,12,07167,REINTENTO,8.0,0
+44,Bancomer Parcial (DUE 3)                          ,12,06111,PARCIAL,1.91,2
+64,Bancomer Parcial Cuenta (DUE 3)                   ,12,06111,PARCIAL,1.91,2
+49,Bancomer Tradicional Cuenta                       ,12,07167,TRADICIONAL,8.0,2
+79,Bancomer Tradicional                              ,12,07167,TRADICIONAL,8.0,2
+58,Bancomer Interbancario Cuenta Excepciones         ,12,07167,INTERBANCARIO,6.0,1
+66,Santander Interbancario Cuenta Periodo Actual     ,14,00623,INTERBANCARIO,3.18,1
+47,Santander Tradicional Cuenta Periodo Actual       ,14,00623,TRADICIONAL,2.82,1
+68,Santander Excepciones Cuenta                      ,14,00623,TRADICIONAL,2.82,1
+35,Santander Reintentos                              ,14,00623,REINTENTO,1.97,0
+69,Santander Reintentos Cuenta                       ,14,00623,REINTENTO,1.97,0
+70,Santander Interbancario Cuenta Excepciones        ,14,00623,INTERBANCARIO,3.18,1
+45,Banamex Tradicional Tarjeta Periodo Actual        ,2,noAplica,TARJETA,1.75,0
+46,Banamex Tradicional Cuenta Periodo Actual         ,2,noAplica,CUENTA,1.75,0
+78,Banamex Excepciones Tarjeta                       ,2,noAplica,TARJETA,1.75,0
+51,Banamex Excepciones Cuenta                        ,2,noAplica,CUENTA,1.75,0
+36,Banamex Reintentos                                ,2,noAplica,REINTENTO,1.75,0
+52,Banamex Reintentos Cuenta                         ,2,noAplica,REINTENTO CUENTA,1.75,0
+53,Banamex Interbancario Cuenta Periodo Actual       ,2,noAplica,TRADICIONAL,1.75,1
+55,Banamex Interbancario Cuenta Excepciones          ,2,noAplica,TRADICIONAL,1.75,1
+72,Banorte Interbancario Cuenta Periodo Actual       ,72,00496,TRADICIONAL,2.5,1
+48,Banorte Tradicional Cuenta Periodo Actual         ,72,00496,TRADICIONAL,2.5,2
+75,Banorte Excepciones Cuenta                        ,72,00496,TRADICIONAL,2.5,2
+37,Banorte Reintentos                                ,72,00496,TRADICIONAL,2.5,2
+76,Banorte Reintentos Cuenta                         ,72,00496,TRADICIONAL,2.5,2
+26,Banorte Interbancario Excepciones                 ,72,00496,INTERBANCARIO,4.5,1
+77,Banorte Interbancario Cuenta Excepciones          ,72,00496,INTERBANCARIO,4.5,1
